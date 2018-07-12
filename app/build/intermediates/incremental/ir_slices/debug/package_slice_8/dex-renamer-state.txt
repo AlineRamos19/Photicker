@@ -1,0 +1,4 @@
+#Thu Jul 12 14:52:08 BRT 2018
+base.0=C\:\\Users\\t100\\Photicker\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
